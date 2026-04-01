@@ -223,11 +223,17 @@ Finished: SUCCESS
 ## 📌 Evaluation Criteria Coverage
 
 ✔ Application runs successfully
+
 ✔ Git commits structured and meaningful
+
 ✔ Unit tests implemented and passing
+
 ✔ Docker image builds successfully
+
 ✔ GitHub Actions pipeline executes successfully
+
 ✔ Jenkins build completes without errors
+
 ✔ Documentation is clear and professional
 
 ---
@@ -246,7 +252,9 @@ This project successfully demonstrates a **complete DevOps lifecycle**, ensuring
 ## 👨‍💻 Author
 
 **Name - Akshay Salamwade**
+
 **EMail - 2024tm93682@wilp.bits-pilani.ac.in**
+
 DevOps Assignment – ACEest Fitness & Gym
 
 ---
